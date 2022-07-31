@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=3V3 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Change Net Name : Old Net Name=NetMD1_3 New Net Name=EN
+Change Net Name : Old Net Name=NetMD1_25 New Net Name=BOOT
